@@ -1,0 +1,3 @@
+*/10 * * * * cd /opt/aliyun-ddns-client && /usr/bin/python3.8 ddns.py >>~/ddnslog.txt
+
+
